@@ -10,6 +10,11 @@ package la3scm;
  * @author lenovo
  */
 public class LA3SCM {
+    
+     public void feature_a()
+    {
+        System.out.println("feature A added");
+    }
 
     
     public void feature_b()
@@ -21,7 +26,7 @@ public class LA3SCM {
      */
     public static void main(String[] args) 
     {
-        System.out.println("Hello World");
+        System.out.println("Hello World");S
         
     }
     
