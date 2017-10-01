@@ -11,12 +11,18 @@ package la3scm;
  */
 public class LA3SCM {
 
+    
+    public void feature_b()
+    {
+        System.out.println("feature be added");
+    }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) 
     {
         System.out.println("Hello World");
+        
     }
     
 }
